@@ -1,4 +1,4 @@
-Personal Diary App
+# Personal Diary App
 
 About
 
