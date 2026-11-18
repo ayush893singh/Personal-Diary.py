@@ -1,6 +1,6 @@
 # Personal Diary App
 
-About
+# About
 
 Personal Diary App is a beginner-friendly Python project that allows users to write, view, and search their personal diary entries.
 
