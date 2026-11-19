@@ -6,7 +6,7 @@ Personal Diary App is a beginner-friendly Python project that allows users to wr
 
 It uses Python file handling to save diary entries permanently in a text file.
 
-Features
+# Features
 
 - Password-based login.
 - Add new diary entries.
