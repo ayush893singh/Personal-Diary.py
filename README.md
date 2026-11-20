@@ -16,7 +16,7 @@ It uses Python file handling to save diary entries permanently in a text file.
 - Automatically save entries in a text file.
 - Display date and time for each entry.
 
-Technologies Used
+# Technologies Used
 
 - Python
 - File Handling
