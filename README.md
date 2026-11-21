@@ -24,7 +24,7 @@ It uses Python file handling to save diary entries permanently in a text file.
 - Loops and Conditional Statements
 - Datetime Module
 
-Requirements
+# Requirements
 
 - Python 3.x
 - No external libraries required.
