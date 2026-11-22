@@ -29,7 +29,7 @@ It uses Python file handling to save diary entries permanently in a text file.
 - Python 3.x
 - No external libraries required.
 
-How to Run
+# How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
