@@ -41,7 +41,7 @@ python "Personal Diary.py"
 
 Default Password: "1234"
 
-Project Structure
+# Project Structure
 
 Personal-Diary/
 │
