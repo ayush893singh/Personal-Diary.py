@@ -51,7 +51,7 @@ Personal-Diary/
 
 Note: The "diary.txt" file is automatically created when the first diary entry is saved.
 
-Learning Objectives
+# Learning Objectives
 
 This project helps beginners understand:
 
