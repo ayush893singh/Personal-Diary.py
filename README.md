@@ -62,7 +62,7 @@ This project helps beginners understand:
 - String operations.
 - Working with date and time.
 
-Future Improvements
+# Future Improvements
 
 - Change password option.
 - Delete individual diary entries.
