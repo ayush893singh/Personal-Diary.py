@@ -70,7 +70,7 @@ This project helps beginners understand:
 - Password encryption.
 - Graphical user interface.
 
-Security Note
+# Security Note
 
 This is a beginner learning project. The default password is stored directly in the source code, and diary entries are saved as plain text. Do not store sensitive personal information in this version.
 
