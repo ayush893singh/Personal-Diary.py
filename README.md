@@ -74,7 +74,7 @@ This project helps beginners understand:
 
 This is a beginner learning project. The default password is stored directly in the source code, and diary entries are saved as plain text. Do not store sensitive personal information in this version.
 
-Author
+# Author
 
 Ayush Singh
 
